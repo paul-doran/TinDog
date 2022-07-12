@@ -1,3 +1,3 @@
 # TinDog
 Tinder for dogs.
-Website created using HTML, CSS, and Bootstrap.
+A website created using HTML, CSS, and Bootstrap that responses to mobile and tablet screen sizes.
